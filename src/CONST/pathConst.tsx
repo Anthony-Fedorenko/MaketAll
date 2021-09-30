@@ -1,2 +1,2 @@
 
-export const mainPath = '/maketsOfPaper'
+export const mainPath = '/projectMarket'
