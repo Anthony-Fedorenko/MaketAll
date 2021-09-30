@@ -1,2 +1,2 @@
 
-export const mainPath = '/MaketAll'
+export const mainPath = '/maketAll'
