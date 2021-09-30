@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/projectMarket/static/css/main.50b13f1a.chunk.css",
+    "main.js": "/projectMarket/static/js/main.854c0ded.chunk.js",
+    "main.js.map": "/projectMarket/static/js/main.854c0ded.chunk.js.map",
+    "runtime-main.js": "/projectMarket/static/js/runtime-main.5f4f127d.js",
+    "runtime-main.js.map": "/projectMarket/static/js/runtime-main.5f4f127d.js.map",
+    "static/js/2.3672f21f.chunk.js": "/projectMarket/static/js/2.3672f21f.chunk.js",
+    "static/js/2.3672f21f.chunk.js.map": "/projectMarket/static/js/2.3672f21f.chunk.js.map",
+    "static/js/3.096f9794.chunk.js": "/projectMarket/static/js/3.096f9794.chunk.js",
+    "static/js/3.096f9794.chunk.js.map": "/projectMarket/static/js/3.096f9794.chunk.js.map",
+    "index.html": "/projectMarket/index.html",
+    "static/css/main.50b13f1a.chunk.css.map": "/projectMarket/static/css/main.50b13f1a.chunk.css.map",
+    "static/js/2.3672f21f.chunk.js.LICENSE.txt": "/projectMarket/static/js/2.3672f21f.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/projectMarket/static/media/hero1.94b3544a.jpg",
+    "static/media/about1.3f149c5c.jpg": "/projectMarket/static/media/about1.3f149c5c.jpg",
+    "static/media/about2.591a0792.jpg": "/projectMarket/static/media/about2.591a0792.jpg",
+    "static/media/about3.39ee25f3.jpg": "/projectMarket/static/media/about3.39ee25f3.jpg",
+    "static/media/about4.1c937ad4.jpg": "/projectMarket/static/media/about4.1c937ad4.jpg",
+    "static/media/icons.21a3d03f.svg": "/projectMarket/static/media/icons.21a3d03f.svg",
+    "static/media/logo.e8000327.png": "/projectMarket/static/media/logo.e8000327.png",
+    "static/media/photo1.83de0337.jpg": "/projectMarket/static/media/photo1.83de0337.jpg",
+    "static/media/photo2.9f9a4d8d.jpg": "/projectMarket/static/media/photo2.9f9a4d8d.jpg",
+    "static/media/photo3.30e280e8.jpg": "/projectMarket/static/media/photo3.30e280e8.jpg",
+    "static/media/photo4.2c54004a.jpg": "/projectMarket/static/media/photo4.2c54004a.jpg",
+    "static/media/photo5.375ddcae.jpg": "/projectMarket/static/media/photo5.375ddcae.jpg",
+    "static/media/photo6.995568ea.jpg": "/projectMarket/static/media/photo6.995568ea.jpg",
+    "static/media/photo7.01a82aa5.jpg": "/projectMarket/static/media/photo7.01a82aa5.jpg",
+    "static/media/photo8.4e224a94.jpg": "/projectMarket/static/media/photo8.4e224a94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f4f127d.js",
+    "static/js/2.3672f21f.chunk.js",
+    "static/css/main.50b13f1a.chunk.css",
+    "static/js/main.854c0ded.chunk.js"
+  ]
+}
